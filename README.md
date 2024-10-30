@@ -1,1 +1,3 @@
 # Binarization-for-OCR
+
+This project is an interactive web application built with Streamlit for exploring image binarization techniques used in Optical Character Recognition (OCR). Users can upload an image, select from five popular binarization methods (Otsu's, Adaptive Thresholding, Niblack’s, Sauvola’s, and Bernsen’s), and view the binarized result alongside the original image. Each method includes a brief description with three main points and a mathematical formula to illustrate its approach, making this tool ideal for understanding and comparing different binarization techniques for OCR applications.
